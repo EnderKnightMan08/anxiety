@@ -6,7 +6,7 @@
 
 (...51)
 
-[PLAY!](#intro-start) `publish("intro-to-game-1"); Game.OVERRIDE_CHOICE_LINE=true;`
+[MAIN!](#intro-start) `publish("intro-to-game-1"); Game.OVERRIDE_CHOICE_LINE=true;`
 
 # intro-start
 
@@ -14,13 +14,13 @@
 
 `clearText()`
 
-n3: So before we start, how would *you* like to read?
+n3: Jadi sebelum kita mula, bagaimanakah hendak *kamu* membaca?
 
 `publish("show_options_bottom")`
 
 # intro-start-2
 
-n3: Now, let's begin our story...
+n3: Sekarang, mari kita mulakan cerita kita...
 
 ```
 publish("hide_tabs");
@@ -31,7 +31,7 @@ clearText();
 
 `publish("intro-to-game-2")`
 
-n2: THIS IS A HUMAN
+n2: INI ADALAH SEORANG MANUSIA
 
 (...600)
 
@@ -51,9 +51,9 @@ music('battle', {volume:0.5});
 
 (...300)
 
-n: AND THIS IS THE HUMAN'S ANXIETY
+n: DAN INI ADALAH KEGELISAHAN MANUSIA
 
-n: _YOU_ ARE THE ANXIETY
+n: _KAMU_ ADALAH SI KEGELISAHAN ITU
 
 (#act1_normal)
 
@@ -66,45 +66,45 @@ sfx("rustle");
 Game.OVERRIDE_TEXT_SPEED = 1.5;
 ```
 
-h: Nope. No, nope, not listening. Gonna check my phone.
+h: Tidak. Tak, tidak akan, tidak mahu mendengar. Akan aku periksa telefon pintarku.
 
 ```
 sfx("rustle2");
 hong({body:"phone1", mouth:"neutral", eyes:"neutral"})
 ```
 
-n: YOUR JOB IS TO PROTECT YOUR HUMAN FROM *DANGER*
+n: KERJA ANDA ADALAH UNTUK MELINDUNGI MANUSIA-MU DARI SEBARANG *BAHAYA*
 
 `bb({eyes:"look", mouth:"small_lock", body:"fear"})`
 
-b: Gasp! You're scrolling your life away on Twitter! Again!
+b: *Tercungap*! Kamu sedang menatal hidup kamu di Twitter! Lagi!
 
 ```
 bb({eyes:"normal", mouth:"normal", body:"normal"});
 hong({eyes:"annoyed"});
 ```
 
-h: Yeah I wonder why I don't just sit and listen to my thoughts more often.
+h: Ya saya terfikirkan kenapa tidak saya duduk dan lebih menumpukan kepada pemikiran saya lebih kerap.
 
 `hong({eyes:"neutral"});`
 
-n: QUICK, WARN THEM ABOUT A *DANGER!*
+n: CEPAT, PERINGATKAN MEREKA FASAL *BAHAYA!*
 
 ```
 bb({eyes:"look"});
 ```
 
-[Oh no, look at that horrible news story!](#act1d_news)
+[Alamak, lihat pada berita yang teruk itu!](#act1d_news)
 
-[Oh no, is that tweet secretly about *us?*](#act1d_subtweet)
+[Alamak, adakah *tweet* itu secara rahsianya tentang *kita?*](#act1d_subtweet)
 
-[Hey, a GIF of a cat drinking milk](#act1d_milk)
+[Hey, ada GIF fasal kucing sedang meminum susu](#act1d_milk)
 
 # act1d_milk
 
 `hong({mouth:"smile", eyes:"surprise"});`
 
-h: Heh ya that's cute, I--
+h: Heh ya itu comel, saya--
 
 ```
 hong({mouth:"shock", eyes:"shock"});
@@ -112,7 +112,7 @@ bb({body:"scream"});
 Game.OVERRIDE_TEXT_SPEED = 1.8;
 ```
 
-b: CATS CAN'T DIGEST MILK AND WE'RE TERRIBLE PEOPLE FOR ENJOYING ANIMAL ABUSE
+b: KUCING TIDAK BERKEMAMPUAN UNTUK MENCERNA SUSU DAN KITA ADALAH ORANG YANG TERUK KERANA MENIKMATI PENDERAAN HAIWAN
 
 (...200)
 
