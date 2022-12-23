@@ -6,9 +6,9 @@ SceneSetup.act1();
 
 (...300)
 
-n: AND THIS IS THE HUMAN'S ANXIETY
+n: DAN INI ADALAH KEGELISAHAN MANUSIA
 
-n: _YOU_ ARE THE ANXIETY
+n: _KAMU_ ADALAH SI KEGELISAHAN ITU
 
 {{if window.localStorage.continueChapter=="replay"}}
 (#act1_replay)
@@ -24,17 +24,17 @@ n: _YOU_ ARE THE ANXIETY
 
 `hong({mouth:"0_neutral", eyes:"0_neutral"})`
 
-h: Oh hey! We're back here again?
+h: Oh hey! Kita kembali di sini lagi?
 
 `hong({eyes:"0_neutral"})`
 
-n: YOUR JOB IS TO PROTECT YOUR HUMAN FROM *DANGER*
+n: KERJA ANDA ADALAH UNTUK MELINDUNGI MANUSIA-MU DARI SEBARANG *BAHAYA*
 
 `bb({eyes:"look", mouth:"small_lock"})`
 
-n: IN FACT, REPLAYING THIS GAME IS PUTTING THEM IN *DANGER* RIGHT NOW
+n: SEBENARNYA, MEMAINKAN SEMULA PERMAINAN INI ADALAH MELETAKKAN MEREKA DALAM *BAHAYA* SEKARANG
 
-n: QUICK, WARN THEM!
+n: CEPAT, PERINGATKAN MEREKA!
 
 ```
 sfx("squeak");
@@ -42,11 +42,11 @@ bb({body:"squeeze_talk"});
 hong({body:"0_squeeze"});
 ```
 
-b: Human! Listen, we're in danger! The player...
+b: Manusia! Dengar, kita berada dalam bahaya! Pemain...
 
-[...is gonna torture us again!](#act1_replay_torture)
+[...akan menyeksa kita, lagi sekali!](#act1_replay_torture)
 
-[...won't find an alternate ending!](#act1_replay_alternate)
+[...tidak dapat mencari pengakhiran alternatif!](#act1_replay_alternate)
 
 [...will get ludonarrative dissonance!](#act1_replay_dissonance)
 
