@@ -92,7 +92,7 @@ _.PLAYED_BEFORE = !!window.localStorage.continueChapter;
 
 `clearText()`
 
-n3: Welcome! This is less of a "game," more of an interactive story. Hope you like reading, sucka!
+n3: Selamat datang! Sedemikiannya ini adalah kurang daripada "permainan," tetapi lebih kepada cerita yang saling bertindak(interaktif). Harapnya kamu suka membaca, sucka!
 
 n3: So before we start, how would *you* like to read?
 
