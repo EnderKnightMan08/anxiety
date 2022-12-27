@@ -1,6 +1,7 @@
 # Quick Reminder! *3 years younger*
 
 **Hi, yes. If no, this is a fan-made version (a.k.a. the translated version but limited)**
+
 I've been thinking about translating all the markdown contents but that'll make me spend more time on the "outerior" instead of the interior despite having over 9000 words really makes me want to !@$# myself. I *might* finish even if halfway because my holiday is almost over and completing this translations was really tiring. *So yeah, sowwy*
 
 ## [Original Here](https:ncase.github.com/anxiety)
