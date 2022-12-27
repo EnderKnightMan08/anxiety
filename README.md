@@ -1,6 +1,6 @@
-# Quick Reminder! *3 years younger*
+# [Quick Reminder!](https://github.com/EnderKnightMan08/anxiety#quick-reminder-3-years-younger) **3 years younger*
 
-**Hi, yes. If no, this is a fan-made version (a.k.a. the translated version but limited)**
+**[Hi](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiomputr5r8AhWgSmwGHTKuAyQQFnoECDIQAQ&url=https%3A%2F%2Fen.wiktionary.org%2Fwiki%2Fhi&usg=AOvVaw2sN0PzkQxPp3sA3kIyAm-X), [yes](https://en.wikipedia.org/wiki/Yes_(band)).** [If](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjHp5Tnr5r8AhXOXGwGHfQrAhgQtwJ6BAgTEAI&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DhelEv0kGHd4&usg=AOvVaw2YkaNh21nKoNDlMWHq923R) [no](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjyqLb6r5r8AhXyTmwGHdJsDAkQFnoECA8QAQ&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FNo_(Meghan_Trainor_song)&usg=AOvVaw0gZHYnopGHAqp0Omt2sLAa), this is a fan-made version (a.k.a. the translated version but limited)
 
 I've been thinking about translating all the markdown contents but that'll make me spend more time on the "outerior" instead of the interior despite having over 9000 words really makes me want to !@$# myself. I *might* finish even if halfway because my holiday is almost over and completing this translations was really tiring. *So yeah, sowwy*
 
